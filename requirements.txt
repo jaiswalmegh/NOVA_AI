@@ -1,0 +1,14 @@
+customtkinter
+groq
+python-dotenv
+requests
+Pillow
+SpeechRecognition
+pyttsx3
+PyAudio
+APScheduler
+wikipedia
+pycaw
+comtypes
+psutil
+beautifulsoup4

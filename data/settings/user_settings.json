@@ -1,0 +1,8 @@
+{
+    "voice_enabled": true,
+    "auto_speak": true,
+    "memory_enabled": true,
+    "notifications_enabled": true,
+    "response_style": "Balanced",
+    "language": "Auto Detect"
+}
